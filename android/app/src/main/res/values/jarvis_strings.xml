@@ -1,0 +1,4 @@
+<resources>
+    <string name="accessibility_service_label">Jarvis Otomasi</string>
+    <string name="accessibility_service_description">Membantu Jarvis menekan tombol Kirim dan ikon telepon di WhatsApp, serta tombol Paksa berhenti saat Anda meminta menutup aplikasi. Hanya bekerja saat Anda memberi perintah ke Jarvis.</string>
+</resources>
